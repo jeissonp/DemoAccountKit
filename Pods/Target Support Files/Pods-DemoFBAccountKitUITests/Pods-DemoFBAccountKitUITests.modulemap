@@ -1,0 +1,6 @@
+framework module Pods_DemoFBAccountKitUITests {
+  umbrella header "Pods-DemoFBAccountKitUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
